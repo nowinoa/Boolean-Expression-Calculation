@@ -8,6 +8,12 @@ Before installing the **Boolean Expression Calculator**, make sure you meet the 
 **Operating System**:
    - Linux (Ubuntu, Debian, etc.), macOS, or Windows with **WSL** (Windows Subsystem for Linux) enabled.
 
+**Software**:
+   - **Flex**: A tool for generating lexical analyzers (scanners) from a Lex specification.
+   - **Bison**: A tool for generating parsers from a Yacc specification.
+   - **GCC**: A C compiler to compile the generated code.
+   - **Math Library (`-lm`)**: This is needed for certain mathematical operations during compilation.
+
 ## Installation
 To install the **Boolean Expression Calculator**, follow these steps:
 
@@ -19,10 +25,6 @@ To install the **Boolean Expression Calculator**, follow these steps:
    ``` cd Boolean-Expression-Calculation```
    
 4. Ensure that you have Yacc and Lex installed. Otherwise, install them.
-   - **Flex**: A tool for generating lexical analyzers (scanners) from a Lex specification.
-   - **Bison**: A tool for generating parsers from a Yacc specification.
-   - **GCC**: A C compiler to compile the generated code.
-   - **Math Library (`-lm`)**: This is needed for certain mathematical operations during compilation.
 
 ```bash
   sudo apt-get update
