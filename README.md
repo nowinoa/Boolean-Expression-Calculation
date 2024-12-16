@@ -51,5 +51,14 @@ To install the **Boolean Expression Calculator**, follow these steps:
    ``` !TRUE ```
    
 ## Credits
+This project was created by <a href="https://github.com/nowinoa">Ainhoa Prada</a> under the supervision of the <a href="https://www.gre.ac.uk/">University of Greenwich</a>. 
 
 ## License
+This project is under MIT license
+        
+## Questions
+For any questions or issues feel free to contact me at: apt.code14@gmail.com
+
+To explore more about my projects visit my profile :point_right: <a href="https://github.com/nowinoa">:computer:</a>
+
+© 2024 Ainhoa Prada. Confidential and Proprietary. All Rights Reserved.
